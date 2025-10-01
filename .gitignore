@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# Images (already embedded in HTML)
+quiz_images/
+
+# Temp files
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Claude
+.claude/
+
+# Old quiz files (keeping only index.html)
+telenet_quiz.html
+telenet_complete_quiz.html
+telenet_quiz_final.html
+quiz_images_data.js
+
+# Other temp files
+article_images/
+davinci resolve videos/
